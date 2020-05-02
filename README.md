@@ -7,7 +7,7 @@
 3. 修改成台灣手機格式 10碼 09開頭
 4. 提升部分第三方API版本build.gradle
    
-   //okhttp
+   //okhttp連線
    
    implementation project(':okhttputils') 目前版本 okhttp:4.2.0 (okhttp:3.9.0 以上才支援 https://)
    
