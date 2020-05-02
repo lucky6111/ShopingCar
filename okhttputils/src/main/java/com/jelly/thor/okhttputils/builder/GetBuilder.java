@@ -1,6 +1,7 @@
 package com.jelly.thor.okhttputils.builder;
 
 import android.net.Uri;
+import android.util.Log;
 import android.webkit.URLUtil;
 
 import com.jelly.thor.okhttputils.OkHttpUtils;
@@ -48,6 +49,8 @@ public class GetBuilder extends OkHttpRequestBuilder<GetBuilder> implements HasP
                 myUrl = appendParams(myUrl, commonParams);
             }
         }
+        Log.v("sam","test");
+
         return new GetRequest(myUrl, tag, headers, id, isShowDialog, isShowToast).build();
     }
 
