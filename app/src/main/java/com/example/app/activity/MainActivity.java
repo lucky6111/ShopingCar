@@ -78,7 +78,7 @@ public class MainActivity extends BaseActivity {
         mTabs.add(tab_category);
         mTabs.add(tab_shop);
         mTabs.add(tab_mine);
-        Log.v("sam","test");
+
         mInflater = LayoutInflater.from(this);
         mTabhost = (FragmentTabHost) this.findViewById(android.R.id.tabhost);
         mTabhost.setup(this, getSupportFragmentManager(), R.id.realtabcontent);
