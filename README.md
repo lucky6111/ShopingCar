@@ -8,9 +8,9 @@
    
    implementation project(':okhttputils') 目前版本 okhttp:4.2.0 (okhttp:3.9.0 以上才支援 https://)
    
-   黄油刀 
-   implementation 'com.jakewharton:butterknife:10.2.0' 
-   annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.0 
+    //黄油刀 
+    implementation 'com.jakewharton:butterknife:10.2.0' 
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.0 
 
     //沉浸式狀態欄 
     implementation 'com.readystatesoftware.systembartint:systembartint:1.0.3' 
@@ -24,6 +24,9 @@
     implementation 'com.github.bumptech.glide:glide:4.7.1'
     implementation 'com.google.code.gson:gson:2.8.5'
 
+    implementation "androidx.recyclerview:recyclerview:1.1.0"
+    implementation "androidx.recyclerview:recyclerview-selection:1.1.0-rc01"
+    
     implementation "androidx.recyclerview:recyclerview:1.1.0"
     implementation "androidx.recyclerview:recyclerview-selection:1.1.0-rc01"
 
