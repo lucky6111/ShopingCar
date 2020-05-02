@@ -5,7 +5,7 @@
 1. android.support 更新到 AndroidX
 2. 修改地址三級聯動PickerView符合台灣的市鎮鄉區街路格式
 3. 修改成台灣手機格式 10碼 09開頭
-4. 
+4. 圖片顯示需以okhttp連線到PHP再到MySQL取得JSon圖片路徑
 5. 提升部分第三方API版本build.gradle
    
    //okhttp連線
