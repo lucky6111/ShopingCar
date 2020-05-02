@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">app</string>
+
+    <string name="home">主頁</string>
+    <string name="hot">熱賣</string>
+    <string name="catagory">分類</string>
+    <string name="cart">購物車</string>
+    <string name="mine">我的</string>
+    <string name="to_login">點擊登錄</string>
+    <string name="my_orders">我的訂單</string>
+    <string name="my_favorite">我的收藏</string>
+    <string name="my_addresses">收貨地址</string>
+    <string name="logout">退出登錄</string>
+    <string name="add_addresses">新建收件地址</string>
+
+    <string name="code_end">請重新發送驗證碼</string>
+
+    <string name="create_order">填寫訂單</string>
+</resources>

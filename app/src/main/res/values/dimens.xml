@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app基本的字體大小-->
+    <dimen name="base_text_size">14sp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="big_text_size">16sp</dimen>
+    <dimen name="smaller_text_size">10sp</dimen>
+    <dimen name="bigger_text_size">18sp</dimen>
+
+    <dimen name="bigButtonTextSize">18dp</dimen>
+    <dimen name="normalButtonTextSize">16dp</dimen>
+    <dimen name="smallButtonTextSize">14dp</dimen>
+
+    <!--間距-->
+    <dimen name="screenPadding">10dp</dimen>   <!--距離屏幕左右的邊距.這個app通用-->
+    <dimen name="basicPaddingSize">4dp</dimen>
+    <dimen name="inputEditTextMinHeight">32dp</dimen>
+    <dimen name="searchViewMinHeight">45dp</dimen>
+    <dimen name="smallPadding">8dp</dimen>
+    <dimen name="largePadding">16dp</dimen>
+    <dimen name="largerPadding">24dp</dimen>
+    <dimen name="largestPadding">32dp</dimen>
+    <dimen name="smallerPadding">3dp</dimen>
+    <dimen name="littlePadding">60dp</dimen>
+    <dimen name="middlePadding">10dp</dimen>
+    <dimen name="basePadding">12dp</dimen>
+    <dimen name="footerPadding">11dp</dimen>
+    <dimen name="noPadding">0dp</dimen>
+
+    <dimen name="buttonCornerSize">2dp</dimen>
+    <dimen name="dialog_round_radius">4dp</dimen>
+    <dimen name="smallButtonHeight">32dp</dimen>
+    <dimen name="smallButtonWidth">48dp</dimen>
+    <dimen name="normalButtonHeight">48dp</dimen>
+    <dimen name="normalButtonWidth">80dp</dimen>
+
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="text_12">12sp</dimen>
+
+</resources>

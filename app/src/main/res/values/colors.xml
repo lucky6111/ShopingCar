@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#eb4f38</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#ffffff</color> <!-- 白色 -->
+    <color name="login_unable_bg">#ffcdced0</color>
+
+    <color name="bg_color">#f1f1f1</color>
+
+    <color name="red">#ff0000</color> <!-- 红色 -->
+
+    <color name="black">#000</color>
+
+    <color name="darkgrey">#a9a9a9</color> <!-- 暗灰色 -->
+
+    <color name="goldyellow">#ff9428</color> <!-- 金黄色 -->
+
+    <color name="gray">#808080</color> <!-- 灰色 -->
+
+    <color name="gainsboro">#dcdcdc</color> <!-- 洋李色 -->
+
+    <color name="base_color">#505050</color> <!--userInfo font  主字體 顏色 -->
+
+    <color name="firebrick">#b22222</color>  <!-- 火磚色 -->
+
+    <color name="white_color_disable">#7fffffff</color>
+    <color name="red_btn_color_disable">#7fff5454</color>
+    <color name="red_btn_color_pressed">#ffd24242</color>
+    <color name="red_btn_color_normal">#ffff5454</color>
+    <color name="grey_btn_color_disable">#7fd8d8d8</color>
+    <color name="grey_btn_color_pressed">#ffd8d8d8</color>
+    <color name="grey_btn_color_normal">#fff1f1f1</color>
+    <color name="border_color">#a9b7b7</color>
+    <color name="base_bg_color">#f4f5f8</color>
+    <color name="base_black">#323232</color>
+    <color name="userInfo_font">#505050</color> <!--userInfo font  主字體 顏色 -->
+
+    <color name="lightgreen">#90ee90</color> <!-- 亮綠色-->
+
+    <color name="small_base_coloruser">#969696</color> <!--userInfo font  副字體 顏色 -->
+
+    <color name="blue">#0000ff</color> <!-- 藍色 -->
+
+    <item type="color" name="green_btn_color_disable">@color/app_green_alpha</item>
+    <color name="app_green_alpha">#7f45c01a</color>
+
+    <color name="green_btn_color_pressed">#ff298409</color>
+
+    <item type="color" name="green_btn_color_normal">@color/app_green</item>
+    <color name="app_green">#ff45c01a</color>
+
+    <color name="crimson">#dc143c</color> <!-- 暗深红色 -->
+    <color name="base_text_color_gray">#666666</color>
+
+    <color name="base_red_color">#ff0000</color>  <!--app主體的紅色-->
+
+</resources>
