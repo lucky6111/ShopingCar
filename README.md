@@ -25,6 +25,7 @@
     implementation 'org.greenrobot:eventbus:3.1.1'
 
     //輪播圖
+    
     implementation 'com.youth.banner:banner:1.4.10'
     
     implementation 'com.github.bumptech.glide:glide:4.7.1'
