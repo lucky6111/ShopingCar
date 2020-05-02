@@ -25,6 +25,7 @@
     implementation 'com.google.code.gson:gson:2.8.5'
 
     //recyclerview
+    
     implementation "androidx.recyclerview:recyclerview:1.1.0"
     implementation "androidx.recyclerview:recyclerview-selection:1.1.0-rc01"
 
