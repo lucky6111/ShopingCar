@@ -1,5 +1,5 @@
 # ShoppingCart  購物商店功能測試
-仿中國網友 github 提供購物商店原始碼 , 測試重新以 Android Studio 3.6 編寫成符合台灣的格式
+仿中國網友 github 提供購物商店原始碼 , 以 Android Studio 3.6 編寫成符合台灣的格式及提升版本
 
 如下 :
 1. android.support 更新到 AndroidX
