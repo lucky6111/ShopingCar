@@ -5,8 +5,12 @@
 2. 修改地址三級聯動PickerView符合台灣的市鎮鄉區街路格式
 3. 修改成台灣手機格式
 4. 提升部分第三方API版本如下
-連接到 okhttputils 模組 Module (需 import外部 module) okhttp:3.9.0 以上才支援 https
+
+   連接到 okhttputils 模組 Module (需 import外部 module) okhttp:3.9.0 以上才支援 https
    
    implementation project(':okhttputils') 目前版本 okhttp:4.2.0
+    //黄油刀
+    implementation 'com.jakewharton:butterknife:10.2.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.0
    
    
