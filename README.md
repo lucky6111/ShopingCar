@@ -1,6 +1,8 @@
 # ShoppingCart  購物商店功能測試
 仿中國網友 github 提供購物商店原始碼 , 以 Android Studio 3.6 編寫成符合台灣的格式及提升版本
 
+共有5主題:1.主頁 2.熱賣 3. 分類 4.購物車 5.我的
+
 如下 :
 1. android.support 更新到 AndroidX
 2. 修改地址三級聯動PickerView符合台灣的市鎮鄉區街路格式
